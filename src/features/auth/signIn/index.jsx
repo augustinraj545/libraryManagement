@@ -58,9 +58,9 @@ export default function SignIn() {
         <button className='text-white bg-blue-600 rounded-sm py-2 px-4 font-bold'>Sign In</button>
         <div className='mt-2 text-black'>Are you new here? <a href='/signup' className='ml-[1px] text-blue-600 underline'>Create Account</a></div>
       </form>
-      <div className='mt-10'>
+      {/* <div className='mt-10'>
         <button onClick={signInWithGoogle} className=' rounded-md p-2 border border-slate-200 bg-white'><img src={google} width={24} height={24} /></button>
-      </div>
+      </div> */}
     </div>
   )
 }

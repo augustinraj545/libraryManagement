@@ -3,7 +3,7 @@ import Marquee from "react-fast-marquee";
 import axios from 'axios';
 import { Link } from 'react-router-dom';
 import NoImageAvailable from "../../assets/NoImageAvailabe.jpg"
-const googleBookApiKey = "AIzaSyDcxjIPivXvC1bSOaVn_LUkDgMHfHm0P0k";
+const googleBookApiKey = "AIzaSyBUBm7pc6dEgVcNrGB7DErr86nRX0b8JSg";
 
 
 export default function Home() {

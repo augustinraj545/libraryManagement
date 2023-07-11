@@ -9,7 +9,7 @@ import { useNavigate } from 'react-router-dom'
 import { useAuthContext } from '../../hooks/useAuthContext';
 import { cartStore } from "../../lib/stores";
 
-const googleBookApiKey = "AIzaSyDcxjIPivXvC1bSOaVn_LUkDgMHfHm0P0k";
+const googleBookApiKey = "AIzaSyBUBm7pc6dEgVcNrGB7DErr86nRX0b8JSg";
 export default function Books() {
   const { session } = useAuthContext();
 

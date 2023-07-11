@@ -14,7 +14,7 @@ import axios from "axios";
 
 import { shortify } from "../../lib";
 
-const googleBookApiKey = "AIzaSyDcxjIPivXvC1bSOaVn_LUkDgMHfHm0P0k";
+const googleBookApiKey = "AIzaSyBUBm7pc6dEgVcNrGB7DErr86nRX0b8JSg";
 
 export default function Shop() {
     const { session } = useAuthContext();
